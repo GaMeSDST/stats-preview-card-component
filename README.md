@@ -10,8 +10,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/interactieratingcomponent-with-simple-html-css-and-js-C0JBmajmug)
-- [Live Site URL](https://gamesdst.github.io/interactive-rating-component/)
+- [Solution URL](https://www.frontendmentor.io/solutions/statspreviewcardcomponent-with-simple-html-and-css-PSEHkv5HEJ)
+- [Live Site URL](https://gamesdst.github.io/stats-preview-card-component/)
 
 ### Built with
 
